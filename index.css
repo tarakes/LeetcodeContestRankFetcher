@@ -1,0 +1,44 @@
+#monitorbtn{
+    border-radius: 12px;
+    background-color: #1123cb;
+    font-family: inherit;
+    color: white;
+    margin-top: 4px;
+}
+#addbtn{
+    border-radius: 12px;
+    background-color: #1123cb;
+    font-family: inherit;
+    color: white;
+    margin-top: 4px; 
+}
+#ranklist{
+    background-color: #0d0d10;
+    color: white;
+    font-family: serif;
+  
+    margin-top: 3px;
+
+}
+button:hover{
+    cursor: pointer;
+}
+#list p{
+    font-family: cursive;
+    background-color: #30ff62;
+    margin-top: 10px;
+}
+
+table, th, td { 
+    border:1px solid white
+}
+
+#list{
+    max-height: 111px;
+    overflow: overlay;
+}
+
+#tablelist{
+    overflow: overlay;
+    max-height: 112px
+}
